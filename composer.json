@@ -1,0 +1,20 @@
+{
+    "name": "ogprogrammer/lolwutapp",
+    "description": "An app to use the lolwut library",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Joshua Copeland",
+            "email": "joshuarcopeland@gmail.com"
+        }
+    ],
+    "require": {
+        "ogprogrammer/lolwut": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:ogprogrammer/lolwut.git"
+        }
+    ]
+}

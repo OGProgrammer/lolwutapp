@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e2180720b21d712f28ac087e77b67809",
+    "packages": [
+        {
+            "name": "ogprogrammer/lolwut",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/OGProgrammer/lolwut.git",
+                "reference": "2587520974801b52e025ab62aa1ac3e9cda4fe76"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/OGProgrammer/lolwut/zipball/2587520974801b52e025ab62aa1ac3e9cda4fe76",
+                "reference": "2587520974801b52e025ab62aa1ac3e9cda4fe76",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "OGP\\": "src/"
+                }
+            },
+            "license": [
+                "free beer"
+            ],
+            "authors": [
+                {
+                    "name": "Joshua Copeland",
+                    "email": "joshuarcopeland@gmail.com"
+                }
+            ],
+            "description": "An example library used in my composer talk",
+            "support": {
+                "source": "https://github.com/OGProgrammer/lolwut/tree/master",
+                "issues": "https://github.com/OGProgrammer/lolwut/issues"
+            },
+            "time": "2017-09-07T21:19:33+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "ogprogrammer/lolwut": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
