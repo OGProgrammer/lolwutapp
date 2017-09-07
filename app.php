@@ -6,7 +6,7 @@
  * Time: 2:50 PM
  */
 
-include 'vendor/autoload.php';
+require 'vendor/autoload.php';
 
 $lolwut = \OGP\Factory\LolWutFactory::getLolWut();
 
